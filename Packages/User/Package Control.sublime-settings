@@ -1,0 +1,19 @@
+{
+	"auto_upgrade_last_run": 1352410595,
+	"installed_packages":
+	[
+		"Auto Semi-Colon",
+		"BracketHighlighter",
+		"DocBlockr",
+		"Drupal Snippets",
+		"Git",
+		"Goto Documentation",
+		"Goto Drupal API",
+		"Package Control",
+		"Sass",
+		"SFTP",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"SublimeLinter"
+	]
+}
