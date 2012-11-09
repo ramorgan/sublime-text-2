@@ -244,6 +244,7 @@
 			},
 			"file_history":
 			[
+				"/home/reese/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
 				"/home/reese/Web/reese/sandbox/sites/all/modules/custom/SBD Footer/footer.module",
 				"/home/reese/.config/sublime-text-2/Packages/DocBlockr/Base File.sublime-settings",
 				"/home/reese/Web/oop/person.php",
@@ -337,7 +338,7 @@
 			{
 				"height": 0.0
 			},
-			"position": "0,1,0,0,0,1698,46,2338,526,3200,900",
+			"position": "0,1,0,0,0,0,0,0,0,3200,900",
 			"replace":
 			{
 				"height": 0.0
