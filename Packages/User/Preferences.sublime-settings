@@ -14,5 +14,23 @@
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true,
 	"use_tab_stops": true,
-	"word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?"
+	"word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?",
+	"todo":
+    {
+        "file_exclude_patterns":[
+            "*.css", "*.po", "*.mo"
+        ],
+        "folder_exclude_patterns": [
+            "static", "vendor", "tmp"
+        ],
+        "patterns":
+        {
+						"TODO": "TODO[\\s]*?:+(?P<todo>.*)$",
+						"NOTE": "NOTE[\\s]*?:+(?P<note>.*)$",
+						"FIXME": "FIX ?ME[\\s]*?:+(?P<fixme>\\S.*)$",
+						"CHANGED": "CHANGED[\\s]*?:+(?P<changed>\\S.*)$"
+        },
+        "case_sensitive": true,
+        "result_title": "TODO Results"
+      }
 }

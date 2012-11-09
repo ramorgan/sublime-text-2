@@ -2,6 +2,7 @@
 	"auto_upgrade_last_run": 1352489534,
 	"installed_packages":
 	[
+		"Alignment",
 		"Auto Semi-Colon",
 		"BracketHighlighter",
 		"Color Schemes by carlcalderon",
@@ -18,6 +19,8 @@
 		"SideBarEnhancements",
 		"SideBarGit",
 		"SublimeLinter",
+		"SublimeTODO",
+		"Terminal",
 		"Theme - Soda",
 		"Tomorrow Color Schemes"
 	]
