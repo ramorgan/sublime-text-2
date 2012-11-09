@@ -1,19 +1,24 @@
 {
-	"auto_upgrade_last_run": 1352410595,
+	"auto_upgrade_last_run": 1352433696,
 	"installed_packages":
 	[
 		"Auto Semi-Colon",
 		"BracketHighlighter",
+		"Color Schemes by carlcalderon",
 		"DocBlockr",
 		"Drupal Snippets",
+		"Drush",
 		"Git",
 		"Goto Documentation",
 		"Goto Drupal API",
 		"Package Control",
+		"Phix Color Scheme",
 		"Sass",
 		"SFTP",
 		"SideBarEnhancements",
 		"SideBarGit",
-		"SublimeLinter"
+		"SublimeLinter",
+		"Theme - Soda",
+		"Tomorrow Color Schemes"
 	]
 }

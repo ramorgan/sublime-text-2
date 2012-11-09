@@ -1,4 +1,6 @@
 [
+//{ "keys": ["ctrl+shift+alt+d"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete to Hard EOL.sublime-macro"} },
 { "keys": ["super+shift+a"], "command": "goto_drupalapi" },
 { "keys": ["super+shift+h"], "command": "goto_documentation" }
+
 ]
